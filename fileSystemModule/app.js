@@ -23,7 +23,7 @@ const fs = require('fs');
 /*
   Rename a file
   File name, file new name, callback error
- */
+*/
 // fs.rename('example.txt', 'example2.txt', error => {
 //   if (error) console.log('Rename Error', error);
 //   else console.log('Succesfully renamed the file');
